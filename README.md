@@ -6,6 +6,7 @@ Basic AI Knowledge.
 
 Redis Certificate:
 - Redis datastructure: https://university.redislabs.com/certificates/bc26a19a77ba469694e72346470597e3
+
 Hackerank: https://www.hackerrank.com/duy210697
 - Problem Solving (Intermediate) Certificate
 
