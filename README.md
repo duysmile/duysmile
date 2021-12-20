@@ -7,5 +7,3 @@ I'm Duy - a tech lover.
 
 > One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. -  Tony Hoare
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duysmile)](https://github.com/anuraghazra/github-readme-stats)
-
