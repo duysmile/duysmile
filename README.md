@@ -1,7 +1,13 @@
 [![From Vietnam with <3](https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg)](https://webuild.community)
 
-My `blog`      https://duysmile.com
+I'm **Duy** *@* a tech lover.
 
-My `memos.pub` https://duysmile.memos.pub/exp-notes
+Now I work as a `backend developer`.
 
-I'm Duy - a tech lover.
+`blog`
+
+→ https://duysmile.com
+
+`memos.pub`
+
+→ https://duysmile.memos.pub/exp-notes
