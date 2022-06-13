@@ -5,3 +5,5 @@
 > "One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies." -  Tony Hoare
 
 > “Premature optimization is the root of all evil.” — Donald Knuth
+
+> "The only way to go fast, is to go well." - Robert C.Martin
