@@ -4,10 +4,10 @@
 
 Now I work as a `backend developer` in `Go`  and `Node`.
 
-`blog`
+*`blog`*
 
 → https://duysmile.com
 
-`memos.pub`
+*`memos.pub`*
 
 → https://duysmile.memos.pub/exp-notes
