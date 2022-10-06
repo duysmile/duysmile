@@ -1,4 +1,6 @@
-[![From Vietnam with <3](https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg)](https://webuild.community)
+[![From Vietnam with <3](https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg)](https://webuild.community) 
+[![@duysmile's Holopin board](https://holopin.io/api/user/board?user=duysmile)](https://holopin.io/@duysmile)
+
 
 **Duy** *@* thinker, life lover.
 
